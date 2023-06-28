@@ -96,16 +96,18 @@ input{
     display: flex;
     justify-content: flex-start;
 }
+
 .MensagemRecebida{
     text-align: right;
-    background-color: #f7f7f7;
+    background-color: #e7e5e5;
+    border-radius: 10px 10px 0px 10px;
 }
 
 .RespostaGPT{
     text-align: left;
     background-color: #9c9c9c;
+    border-radius: 10px 10px 10px 0px;
 }
-
 
 .MensagemRecebida,.RespostaGPT{
     border-radius: 10px;
