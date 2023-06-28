@@ -1,4 +1,4 @@
-const apiKey = "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"
+const apiKey = "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"
 
 function EnviarMensagem(){
     var mensagem = document.getElementById('mensagem-enviada')
